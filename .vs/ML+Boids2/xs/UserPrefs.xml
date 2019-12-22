@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A43F5565-6F3E-36E5-3928-37EF6B7BE723}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerAseet/CameraRotate.cs">
+    <Files>
+      <File FileName="Assets/PlayerAseet/CameraControll.cs" Line="17" Column="43" />
+      <File FileName="Assets/PlayerAseet/Player.cs" Line="84" Column="1" />
+      <File FileName="Assets/PlayerAseet/playerCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerAseet/PlayerMotion.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerAseet/CameraRotate.cs" Line="20" Column="59" />
+      <File FileName="Assets/Script/RollerAgentCreator.cs" Line="57" Column="5" />
+      <File FileName="Assets/boids/Boid.cs" Line="21" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

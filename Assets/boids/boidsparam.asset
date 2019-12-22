@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7780506998f1c48a4bf8d85ae31e7d, type: 3}
+  m_Name: boidsparam
+  m_EditorClassIdentifier: 
+  initSpeed: 0
+  minSpeed: 0
+  maxSpeed: 30
+  neighborDistance: 10
+  neighborFov: 270
+  separationWeight: 20
+  wallScale: 100
+  wallDistance: 3
+  wallWeight: 50
+  alignmentWeight: 0
+  cohesionWeight: 20
+  turbulence: 1
+  targetratio: 1
+  terrainforceWeight: 20
+  terrainFov: 180
+  terrainDistance: 10
+  kamikaze: 1
+  fragile: 1
